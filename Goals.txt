@@ -43,6 +43,11 @@ Goals
 
 * Word input helper
 
+* .todo files
+
 * Custom file templates
 
 * Spell check
+	>dictionary
+	>check language expressions
+	>syntax highlighting
