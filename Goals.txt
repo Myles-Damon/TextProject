@@ -1,7 +1,48 @@
-\Output to .txt easily
+Goals
 
-\Compile to pdf
+/* MVP */
+* Output to .txt easily
 
-\Display mix of code and notes
+* Custome file extension
+	>in editor shows custom "stuff"(math, code snippets)
+	>save as .txt/.pdf file
 
-\Robust keyboard-only maneuverability 
+* Compile to pdf
+
+* Display mix of code and notes
+   > code snippets
+   > multiple programming language support
+
+* Robust keyboard-only maneuverability
+
+* Mix of the best of notepad++, vim, sublime, word, latex, etc.
+
+* Customizable UI
+    >"easy on the eyes"
+    >default dark theme
+    >possible theme customizer(?)/sharable themes
+
+* Customizable shortcuts
+
+* Help Search Bar
+	>to make learning the application easily accessabile
+
+* Vim shortcuts
+	>Ctrl W, (hjkl) to move between windows
+
+* Customizable fonts
+	>Allow any fonts
+	>default consolas 12pt
+
+* Terminal appears at bottom with keyboard shortcut
+	>ctrl + t
+
+* Enable/disable wordwrap 
+
+/* Long term possibilites */
+
+* Word input helper
+
+* Custom file templates
+
+* Spell check
