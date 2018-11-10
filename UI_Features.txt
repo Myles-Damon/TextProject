@@ -1,0 +1,10 @@
+UI Features
+
+* Main Screen
+	>Welcome screen
+	>Graphical representation of document hierarchy
+	>terminal at the bottom of the window for directory naviagtion(minimized, press t to focus)
+	>press l(by default) to open the last session
+
+* Files
+	>Minimap

@@ -1,5 +1,6 @@
 TextProject
 
+<<<<<<< Updated upstream
 =========
 
 In this file we should outline the goals of the project.
@@ -13,3 +14,5 @@ Goals:(Not in any order.)
 =========
 
 Text Project
+=======
+>>>>>>> Stashed changes
