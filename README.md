@@ -1,3 +1,7 @@
 README __init__
 
-Yeah, so this should be, like, a text editor or something that lets you do, like, mixing of code and text notes but with keyboard-only shortcuts so we can feel like 1337 h4ck3r5 'n' shhhhtuff. This is literally just so that we can have some kind of project on our resumes. But we decided to do this on our own. Neither of us had a counselor tell us to do this. We're "go-getters"; real "self-starters". Yeah, that's right bitch. I used a fucking semicolon. I didn't quite use it correctly... but that confidence exuded by the usage of a single grammatical marker - that's what you'll get when you hire me: Myles "*the largest dick... ever*" Damon, or my parner Peter "the straightest man you've met in the past ten minutes" Kurtz.
+# This is a project to create the perfect\* text editor\note taking application
+
+- We hope to make something.
+
+\*We are two third year CS students that have no idea what they are getting themselves into.
